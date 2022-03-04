@@ -15,11 +15,11 @@ An investor wants to learn more about the weather before committing to build a S
 
 1. Image of June Statistics for Temperature:
 
-![June_temp](https://github.com/nayanbarhate/Surfs_up/blob/main/Resources/June_temp.png)
+![June_temps](https://github.com/nayanbarhate/Surfs_up/blob/main/Resources/June_temp.png)
 
 2. Image of December Statistics for Temprature:
 
-![Dec_temp](https://github.com/nayanbarhate/Surfs_up/blob/main/Resources/Dec_temp.png)
+![Dec_temps](https://github.com/nayanbarhate/Surfs_up/blob/main/Resources/Dec_temp.png)
 
 3. Analysis of the Results:
 The mean temperature for June, 75°F, is higher than the mean temperature for December, 71°F. However, the opposite is true for precipitation. December had the higher mean precipitation, 0.22 inches, while June's mean precipitation was 0.14 inches.
